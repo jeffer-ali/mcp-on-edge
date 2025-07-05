@@ -797,7 +797,7 @@ const WelcomeMessage = ({
       <div className="relative max-w-3xl w-full flex flex-col items-center">
         {/* 主标题和副标题 - 增加间距 */}
         <h1 className="text-5xl font-bold text-center mb-5 gradient-text-blue-purple">
-          网页版 MCP
+          HALO
         </h1>
         <h2 className="text-2xl font-medium text-center mb-6 text-white">
           一句话生成一个全球加速站点
